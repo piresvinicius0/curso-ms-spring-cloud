@@ -12,4 +12,5 @@ import lombok.NoArgsConstructor;
 public class DadosCliente {
     private Long id;
     private String nome;
+    private Integer idade;
 }
