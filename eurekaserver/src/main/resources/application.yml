@@ -3,7 +3,7 @@ spring:
     name: eurekaserver
   security:
     basic:
-      enabled: true
+      enabled: false
     user:
       name: cursoms-eureka-user
       password: ssurkuouemreea-crs-
